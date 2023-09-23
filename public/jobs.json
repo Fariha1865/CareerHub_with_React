@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Responsible for managing and optimizing database systems.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "job_responsibility": "Design and maintain database systems, optimize queries, and ensure data security.",
+    "experiences": "2-3 years of experience in database management.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@google.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Lead the design of user interfaces for Netflix products.",
+    "educational_requirements": "Bachelor's or Master's degree in Design or a related field.",
+    "job_responsibility": "Collaborate with cross-functional teams, conduct user research, and create design prototypes.",
+    "experiences": "5+ years of experience in UI/UX design.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@netflix.com",
+      "address": "Gulshan Avenue, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Develop software for Tesla's electric vehicles and energy products.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science.",
+    "job_responsibility": "Write clean code, participate in code reviews, and collaborate with product teams.",
+    "experiences": "3-5 years of software development experience.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@tesla.com",
+      "address": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Develop software solutions for Google's products and services.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field.",
+    "job_responsibility": "Write efficient and maintainable code, collaborate with teams, and drive product innovation.",
+    "experiences": "3-5 years of software development experience.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@google.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Responsible for managing and optimizing database systems for Tesla's products.",
+    "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field.",
+    "job_responsibility": "Design and maintain database systems, optimize queries, and ensure data security.",
+    "experiences": "2-3 years of experience in database management.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@tesla.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "Lead the design of user interfaces for Netflix's streaming platform.",
+    "educational_requirements": "Bachelor's or Master's degree in Design or a related field.",
+    "job_responsibility": "Collaborate with cross-functional teams, create design concepts, and conduct usability testing.",
+    "experiences": "5+ years of experience in UI/UX design.",
+    "contact_information": {
+      "phone": "01750-00 00 00",
+      "email": "info@netflix.com",
+      "address": "Gulshan Avenue, Dhaka, Bangladesh"
+    }
+  }
+]
